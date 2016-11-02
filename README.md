@@ -1,2 +1,4 @@
 # learnfun
-Simple app for sharing classroom photos with families.
+App for teachers who want to share photos and lessons with families.
+
+Coming soon...
